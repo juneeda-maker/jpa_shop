@@ -22,8 +22,6 @@ public class MemberRepository {
     }//
 
     //깃헛 테스트
-    //깃허브 의 테스트으
-    //텟트
-    //ㅇㅇ
+
     //깃헙 테스트
 }
