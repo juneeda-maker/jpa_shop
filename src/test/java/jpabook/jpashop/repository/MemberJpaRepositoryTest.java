@@ -1,8 +1,6 @@
 package jpabook.jpashop.repository;
 
 
-import jpabook.jpashop.entity.Member;
-import org.assertj.core.api.Assertions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 

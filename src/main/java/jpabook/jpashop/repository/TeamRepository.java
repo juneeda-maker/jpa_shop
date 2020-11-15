@@ -1,6 +1,5 @@
 package jpabook.jpashop.repository;
 
-import jpabook.jpashop.entity.Member;
 import jpabook.jpashop.entity.Team;
 import org.springframework.stereotype.Repository;
 
